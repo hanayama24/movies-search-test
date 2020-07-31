@@ -1,0 +1,56 @@
+.sb-movie-item {
+	max-width: initial;
+	margin: 5px;
+	color: white;
+	text-decoration: none;
+}
+
+@media (min-width: 920px) {
+	.sb-movie-item {
+		max-width: 200px;
+	}
+}
+
+.sb-movie-item__poster {
+	height: initial;
+	overflow: initial;
+}
+
+@media (min-width: 560px) {
+	.sb-movie-item__poster {
+		height: 320px;
+		overflow: hidden;
+	}
+}
+
+@media (min-width: 920px) {
+	.sb-movie-item__poster {
+		height: 240px;
+		overflow: hidden;
+	}
+}
+
+.sb-movie-item__poster-noimage {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 100%;
+	background-color: rgba(255, 255, 255, 0.1);
+}
+
+.sb-movie-item__poster-noimage span {
+	display: inline-block;
+	color: rgba(255, 255, 255, 0.6);
+	font-size: 18px;
+	font-weight: 300;
+}
+
+.sb-movie-item__poster img {
+	width: 100%;
+	height: auto;
+}
+
+.sb-movie-item__title {
+	font-size: 12px;
+	font-weight: 300;
+}

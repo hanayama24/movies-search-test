@@ -1,0 +1,13 @@
+{
+    "linters": {
+        "src/**/*.{css}": [
+            "stylelint"
+        ],
+        "src/**/*.{scss}": [
+            "stylelint --syntax=scss"
+        ],
+        "src/**/*.{ts,tsx}": [
+            "tslint -c tslint.json -p tsconfig.json"
+        ]
+    }
+}

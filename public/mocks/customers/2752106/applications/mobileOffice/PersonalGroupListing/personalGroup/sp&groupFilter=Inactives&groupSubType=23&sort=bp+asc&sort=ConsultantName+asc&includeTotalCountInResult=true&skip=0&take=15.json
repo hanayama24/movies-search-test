@@ -1,0 +1,29 @@
+{
+    "TotalRecords": 4,
+    "Records": [
+        {
+            "ProfilePictureId": "",
+            "Bp": 12,
+            "ConsultantName": "Inactives23Hall Rivers ASC",
+            "CustomerId": 161
+        },
+        {
+            "ProfilePictureId": "",
+            "Bp": 78,
+            "ConsultantName": "Inactives23Dale Merrill ASC",
+            "CustomerId": 191
+        },
+        {
+            "ProfilePictureId": "",
+            "Bp": 132,
+            "ConsultantName": "Inactive23sLott Mckenzie ASC",
+            "CustomerId": 121
+        },
+        {
+            "ProfilePictureId": "",
+            "Bp": 148,
+            "ConsultantName": "Inactives23Eugenia Hannson ASC",
+            "CustomerId": 206
+        }
+    ]
+}

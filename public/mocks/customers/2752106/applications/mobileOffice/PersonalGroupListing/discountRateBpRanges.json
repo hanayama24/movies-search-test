@@ -1,0 +1,44 @@
+{
+    "DiscountRateCollection": [
+        {
+            "FromBp": 0,
+            "ToBp": 200,
+            "Percentage": 0
+        },
+        {
+            "FromBp": 200,
+            "ToBp": 450,
+            "Percentage": 3
+        },
+        {
+            "FromBp": 450,
+            "ToBp": 900,
+            "Percentage": 6
+        },
+        {
+            "FromBp": 900,
+            "ToBp": 1800,
+            "Percentage": 9
+        },
+        {
+            "FromBp": 1800,
+            "ToBp": 3000,
+            "Percentage": 12
+        },
+        {
+            "FromBp": 3000,
+            "ToBp": 5000,
+            "Percentage": 15
+        },
+        {
+            "FromBp": 5000,
+            "ToBp": 7500,
+            "Percentage": 18
+        },
+        {
+            "FromBp": 7500,
+            "ToBp": 9999999999,
+            "Percentage": 21
+        }
+        ]
+}

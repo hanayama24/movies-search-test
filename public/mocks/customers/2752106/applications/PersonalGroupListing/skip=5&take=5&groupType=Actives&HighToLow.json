@@ -1,0 +1,35 @@
+{
+    "TotalRecords": 15,
+    "Records": [
+        {
+            "ProfilePictureId": "",
+            "Bp": 168,
+            "ConsultantName": "Hall Rivers5",
+            "CustomerId": 1561
+        },
+        {
+            "ProfilePictureId": "",
+            "Bp": 135,
+            "ConsultantName": "Eugenia Hannson4",
+            "CustomerId": 2406
+        },
+        {
+            "ProfilePictureId": "",
+            "Bp": 65,
+            "ConsultantName": "Genia Hannson6",
+            "CustomerId": 2606
+        },
+        {
+            "ProfilePictureId": "",
+            "Bp": 38,
+            "ConsultantName": "Hall Rivers5",
+            "CustomerId": 1531261
+        },
+        {
+            "ProfilePictureId": "",
+            "Bp": 35,
+            "ConsultantName": "Genia Hannson6",
+            "CustomerId": 2612106
+        }
+    ]
+}

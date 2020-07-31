@@ -1,0 +1,26 @@
+{
+    "DefaultLanguage": "tr-TR",
+    "Translations": {
+      "tr-TR": {
+        "SectionTitle": "Kişisel Gruba Genel Bakış",
+        "LeadersOverviewTitle": "Liderlere Genel Bakış",
+        "Total": "Toplam",
+        "All": "Tüm",
+        "Actives": "Aktif",
+        "Inactives": "Etkisiz",
+        "Recruits": "Acemiler",
+        "Reactives": "Reaktifleri",
+        "ErrorTitle": "Üzgünüz!",
+        "ErrorReload": "Tekrar yükle",
+        "LoadMore": "Daha fazla yükle",
+        "ShowNumOfConsultants": "{toShow} danışmandan {total}si gösteriliyor",
+        "Inactives1": "Etkisiz 1",
+        "Inactives2": "Etkisiz 2",
+        "Inactives3": "Etkisiz 3",
+        "HighToLow": "High to Low test",
+        "LowToHigh": "Low to high test",
+        "YouHaveNoContactsHere": "Burada hiç bağlantın yok"
+      }
+    }
+  }
+

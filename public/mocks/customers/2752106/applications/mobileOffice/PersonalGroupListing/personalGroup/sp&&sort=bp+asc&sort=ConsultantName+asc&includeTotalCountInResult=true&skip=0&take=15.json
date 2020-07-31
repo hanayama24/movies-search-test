@@ -1,0 +1,35 @@
+{
+    "TotalRecords": 5,
+    "Records": [
+        {
+            "ProfilePictureId": 238,
+            "Bp": 6000,
+            "ConsultantName": "All Hall Rivers3",
+            "CustomerId": 631361
+        },
+        {
+            "ProfilePictureId": 238,
+            "Bp": 2000,
+            "ConsultantName": "All Dale Merrill2",
+            "CustomerId": 128791
+        },
+        {
+            "ProfilePictureId": 238,
+            "Bp": 800,
+            "ConsultantName": "All Hall Rivers3",
+            "CustomerId": 136761
+        },
+        {
+            "ProfilePictureId": null,
+            "Bp": 402,
+            "ConsultantName": "All Dale Merrill2",
+            "CustomerId": 1291
+        },
+        {
+            "ProfilePictureId": 21,
+            "Bp": 135,
+            "ConsultantName": "All Lott Mckenzie1",
+            "CustomerId": 1121
+        }
+    ]
+}

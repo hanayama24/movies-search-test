@@ -1,0 +1,25 @@
+.sb-movie-list {
+	display: grid;
+	grid-template-areas: ". ." ". .";
+	grid-template-columns: 1fr 1fr;
+	grid-template-rows: 1fr 1fr;
+	gap: 5px 5px;
+}
+
+@media (min-width: 560px) {
+	.sb-movie-list {
+		grid-template-areas: ". . ." ". . .";
+		grid-template-columns: 1fr 1fr 1fr;
+		grid-template-rows: 1fr 1fr;
+		gap: 5px 5px;
+	}
+}
+
+@media (min-width: 920px) {
+	.sb-movie-list {
+		grid-template-areas: ". . . . ." ". . . . .";
+		grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+		grid-template-rows: 1fr 1fr;
+		gap: 5px 5px;
+	}
+}

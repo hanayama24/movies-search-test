@@ -1,0 +1,7 @@
+.sb-app {
+	max-width: 960px;
+	height: inherit;
+	margin: 0 auto;
+	padding-right: 10px;
+	padding-left: 10px;
+}
